@@ -6,10 +6,10 @@ So while you're there trying to herd everyone to play at a certain time, everyon
 
 ## Getting Started
 
-### Usage (conceptually)
-**Input availability** People submit their usernames, day & hours free, and optional data depending on the content (you don't need to know how skilled someone is if you're just playing friendslop... right?)
-**Schedule analysis** Using the acquired data, evaluate the best possible timeslots to actually game. Additionally have functionality to organize groups based on overall skill/ilvl/roles if it's for an mmo.
-**Output schedules** Present organized and clear schedules for you and everyone to be able to reference from. Additional functionality to integrate this into discord via bot messages are also a possibility.
+## Usage (conceptually)
+-**Input availability** People submit their usernames, day & hours free, and optional data depending on the content (you don't need to know how skilled someone is if you're just playing friendslop... right?)
+-**Schedule analysis** Using the acquired data, evaluate the best possible timeslots to actually game. Additionally have functionality to organize groups based on overall skill/ilvl/roles if it's for an mmo.
+-**Output schedules** Present organized and clear schedules for you and everyone to be able to reference from. Additional functionality to integrate this into discord via bot messages are also a possibility.
 
-#### License
+## License
 MIT
